@@ -10,7 +10,6 @@ https://colab.research.google.com/drive/1j62207B5kgKbwFdy4ac9eeO417-nu-rn?usp=sh
 
 
 
-The most up-to-date version of the algorithm is currently being reviewed at the *Knowledge-Based-Systems* journal.
 
 ![alt text](https://github.com/EoinKenny/IJCAI-2019/blob/master/imgs/twinsystem.png)
 
