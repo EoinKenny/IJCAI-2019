@@ -8,6 +8,7 @@ An updated version of the algorithm and user studies was recently published at t
 *SEE UP-TO-DATE VERSION OF TWIN-SYSTEM ALGORITHM HERE*
 https://colab.research.google.com/drive/1j62207B5kgKbwFdy4ac9eeO417-nu-rn?usp=sharing
 
+https://colab.research.google.com/drive/1j62207B5kgKbwFdy4ac9eeO417-nu-rn?#offline=true&sandboxMode=true
 
 
 
