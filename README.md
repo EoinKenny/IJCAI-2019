@@ -6,7 +6,10 @@ This repository is the official implementation for the above IJCAI paper (https:
 An updated version of the algorithm and user studies was recently published at the *Artificial Intelligence Journal* (https://www.sciencedirect.com/science/article/pii/S0004370221000102). It is recommended you refer to this article. I made a colab file which you can use to see the most up-to-date version of the twin system algorithm here:
 
 *SEE UP-TO-DATE VERSION OF TWIN-SYSTEM ALGORITHM HERE*
+
 https://colab.research.google.com/drive/1j62207B5kgKbwFdy4ac9eeO417-nu-rn?usp=sharing
+
+
 
 
 ![alt text](https://github.com/EoinKenny/IJCAI-2019/blob/master/imgs/twinsystem.png)
