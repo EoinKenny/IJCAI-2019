@@ -1,7 +1,7 @@
 # IJCAI-2019: Twin-Systems to Explain Artificial Neural Networks Using Case-Based Reasoning
 
 
-This repository is the official implementation for the above IJCAI paper (https://www.ijcai.org/proceedings/2019/376). 
+This repository is the official implementation for the above [IJCAI paper](https://www.ijcai.org/proceedings/2019/376). 
 
 An updated version of the algorithm and user studies was recently published at the *Artificial Intelligence Journal* (https://www.sciencedirect.com/science/article/pii/S0004370221000102). It is recommended you refer to this article. I made a colab file which you can use to see the most up-to-date version of the twin system algorithm here:
 
